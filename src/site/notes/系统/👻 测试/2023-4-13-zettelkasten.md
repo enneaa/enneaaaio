@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///2023-4-13-zettelkasten/","title":"2023-4-13-zettelkasten","tags":["效率"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"///2023-4-13-zettelkasten/","title":"卢曼卡片盒笔记法介绍","tags":["效率"],"created":"2023-04-13 02:17","updated":""}
 ---
 
 
